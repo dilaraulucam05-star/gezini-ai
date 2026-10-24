@@ -1,0 +1,91 @@
+﻿destinasyon_id,destinasyon,ulke,butce_seviyesi,konaklama_gecelik_tl,yemek_gunluk_tl,sehir_ici_ulasim_gunluk_tl,aktivite_gunluk_tl,konaklama_birim,fiyat_para_birimi,kaynak_url,kaynak_kontrol_tarihi,fiyat_gecerlilik_tarihi,veri_durumu
+1,İstanbul,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+1,İstanbul,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+1,İstanbul,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+2,Antalya,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+2,Antalya,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+2,Antalya,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+3,Kapadokya,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+3,Kapadokya,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+3,Kapadokya,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+4,İzmir,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+4,İzmir,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+4,İzmir,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+5,Fethiye,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+5,Fethiye,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+5,Fethiye,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+6,Bodrum,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+6,Bodrum,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+6,Bodrum,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+7,Trabzon,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+7,Trabzon,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+7,Trabzon,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+8,Bursa,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+8,Bursa,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+8,Bursa,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+9,Çanakkale,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+9,Çanakkale,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+9,Çanakkale,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+10,Pamukkale,Türkiye,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+10,Pamukkale,Türkiye,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+10,Pamukkale,Türkiye,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+11,Paris,Fransa,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+11,Paris,Fransa,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+11,Paris,Fransa,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+12,Roma,İtalya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+12,Roma,İtalya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+12,Roma,İtalya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+13,Barselona,İspanya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+13,Barselona,İspanya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+13,Barselona,İspanya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+14,Madrid,İspanya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+14,Madrid,İspanya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+14,Madrid,İspanya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+15,Amsterdam,Hollanda,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+15,Amsterdam,Hollanda,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+15,Amsterdam,Hollanda,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+16,Londra,Birleşik Krallık,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+16,Londra,Birleşik Krallık,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+16,Londra,Birleşik Krallık,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+17,Berlin,Almanya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+17,Berlin,Almanya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+17,Berlin,Almanya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+18,Venedik,İtalya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+18,Venedik,İtalya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+18,Venedik,İtalya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+19,Atina,Yunanistan,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+19,Atina,Yunanistan,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+19,Atina,Yunanistan,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+20,Lizbon,Portekiz,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+20,Lizbon,Portekiz,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+20,Lizbon,Portekiz,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+21,Dubai,Birleşik Arap Emirlikleri,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+21,Dubai,Birleşik Arap Emirlikleri,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+21,Dubai,Birleşik Arap Emirlikleri,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+22,Tokyo,Japonya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+22,Tokyo,Japonya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+22,Tokyo,Japonya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+23,Kyoto,Japonya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+23,Kyoto,Japonya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+23,Kyoto,Japonya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+24,Bangkok,Tayland,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+24,Bangkok,Tayland,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+24,Bangkok,Tayland,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+25,Phuket,Tayland,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+25,Phuket,Tayland,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+25,Phuket,Tayland,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+26,Bali,Endonezya,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+26,Bali,Endonezya,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+26,Bali,Endonezya,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+27,New York,ABD,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+27,New York,ABD,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+27,New York,ABD,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+28,Miami,ABD,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+28,Miami,ABD,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+28,Miami,ABD,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+29,Kahire,Mısır,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+29,Kahire,Mısır,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+29,Kahire,Mısır,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+30,Marakeş,Fas,ekonomik,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+30,Marakeş,Fas,orta,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR
+30,Marakeş,Fas,konforlu,,,,,kisi_gece,TRY,,,,DOGRULAMA_BEKLIYOR

@@ -1,0 +1,16 @@
+﻿kayit_id,destinasyon,kategori,hizmet,fiyat_tl,birim,kaynak,kaynak_url,fiyat_niteligi,seyahat_tarihi,kontrol_tarihi,dogrulama_durumu
+KAP_OTEL_001,Kapadokya,konaklama,Göreme Stone Age Hotel,3357,oda_gece_başlangıç,ENUYGUN,https://www.enuygun.com/otel/detay/goreme-stone-age-hotel-1200136/,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_ORNEGI
+KAP_OTEL_002,Kapadokya,konaklama,Falcon Cave Suites,3575,oda_gece_başlangıç,ENUYGUN,https://www.enuygun.com/otel/bolge/goreme-6224480/,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_ORNEGI
+KAP_OTEL_003,Kapadokya,konaklama,Göreme Reva Hotel,5256,oda_gece_başlangıç,ENUYGUN,https://www.enuygun.com/otel/bolge/goreme-6224480/,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_ORNEGI
+KAP_OTEL_004,Kapadokya,konaklama,Doors of Cappadocia,7768,oda_gece_başlangıç,ENUYGUN,https://www.enuygun.com/otel/bolge/goreme-6224480/,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_ORNEGI
+KAP_OT_001,Kapadokya,ulasim,Balıkesir - Nevşehir otobüs,1500,tek_yon_kisi_başlangıç,obilet,https://www.obilet.com/otobus-bileti/balikesir-nevsehir,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_ORNEGI
+IST_OTEL_ORT_001,İstanbul,konaklama,İstanbul otelleri - bölge ortalaması,4850,oda_gece_bolge_ortalamasi,ENUYGUN,https://www.enuygun.com/otel/bolge/istanbul-1639/,Bolge ortalamasi,,2026-10-20,TARIHSIZ_BOLGE_ORTALAMASI
+ANT_OTEL_ORT_001,Antalya,konaklama,Antalya otelleri - bölge ortalaması,5400,oda_gece_bolge_ortalamasi,ENUYGUN,https://www.enuygun.com/otel/bolge/antalya-481/,Bolge ortalamasi,,2026-10-20,TARIHSIZ_BOLGE_ORTALAMASI
+IST_OTOBUS_001,İstanbul,ulasim,Balıkesir - İstanbul otobüs,699,tek_yon_kisi_baslangic,obilet,https://www.obilet.com/otobus-bileti/balikesir-istanbul,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_ORNEGI
+ANT_OTOBUS_001,Antalya,ulasim,Balıkesir - Antalya otobüs,1000,tek_yon_kisi_baslangic,obilet,https://www.obilet.com/otobus-bileti/balikesir-antalya,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_ORNEGI
+IZM_OTEL_ORT_001,İzmir,konaklama,İzmir otelleri - bölge ortalaması,4500,oda_gece_bolge_ortalamasi,ENUYGUN,https://www.enuygun.com/otel/bolge/izmir-1665/,Bolge ortalamasi,,2026-10-20,TARIHSIZ_FIYAT_GOSTERGESI
+BOD_OTEL_ORT_001,Bodrum,konaklama,Bodrum otelleri - bölge ortalaması,5800,oda_gece_bolge_ortalamasi,ENUYGUN,https://www.enuygun.com/otel/bolge/bodrum-745/,Bolge ortalamasi,,2026-10-20,TARIHSIZ_FIYAT_GOSTERGESI
+IZM_OT_GIDIS_001,İzmir,ulasim,Balıkesir - İzmir otobüs,350,tek_yon_kisi_baslangic,obilet,https://www.obilet.com/otobus-bileti/balikesir-izmir,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_GOSTERGESI
+IZM_OT_DONUS_001,İzmir,ulasim,İzmir - Balıkesir otobüs,385,tek_yon_kisi_baslangic,obilet,https://www.obilet.com/otobus-bileti/izmir-balikesir,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_GOSTERGESI
+BOD_OT_GIDIS_001,Bodrum,ulasim,Balıkesir - Bodrum otobüs,998,tek_yon_kisi_baslangic,obilet,https://www.obilet.com/otobus-bileti/balikesir-bodrum,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_GOSTERGESI
+BOD_OT_DONUS_001,Bodrum,ulasim,Bodrum - Balıkesir otobüs,1300,tek_yon_kisi_baslangic,obilet,https://www.obilet.com/otobus-bileti/bodrum-balikesir,Baslangic fiyati,,2026-10-20,TARIHSIZ_FIYAT_GOSTERGESI

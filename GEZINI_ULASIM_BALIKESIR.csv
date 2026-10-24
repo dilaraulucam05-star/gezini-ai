@@ -1,0 +1,61 @@
+﻿destinasyon_id,destinasyon,ulke,kalkis,ulasim_turu,varis_terminali,aktarma,gidis_tl,donus_tl,gidis_donus_tl,fiyat_para_birimi,seyahat_tarihi,kaynak_url,kaynak_kontrol_tarihi,veri_durumu
+1,İstanbul,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+1,İstanbul,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+2,Antalya,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+2,Antalya,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+3,Kapadokya,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+3,Kapadokya,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+4,İzmir,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+4,İzmir,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+5,Fethiye,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+5,Fethiye,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+6,Bodrum,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+6,Bodrum,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+7,Trabzon,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+7,Trabzon,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+8,Bursa,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+8,Bursa,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+9,Çanakkale,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+9,Çanakkale,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+10,Pamukkale,Türkiye,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+10,Pamukkale,Türkiye,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+11,Paris,Fransa,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+11,Paris,Fransa,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+12,Roma,İtalya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+12,Roma,İtalya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+13,Barselona,İspanya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+13,Barselona,İspanya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+14,Madrid,İspanya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+14,Madrid,İspanya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+15,Amsterdam,Hollanda,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+15,Amsterdam,Hollanda,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+16,Londra,Birleşik Krallık,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+16,Londra,Birleşik Krallık,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+17,Berlin,Almanya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+17,Berlin,Almanya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+18,Venedik,İtalya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+18,Venedik,İtalya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+19,Atina,Yunanistan,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+19,Atina,Yunanistan,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+20,Lizbon,Portekiz,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+20,Lizbon,Portekiz,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+21,Dubai,Birleşik Arap Emirlikleri,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+21,Dubai,Birleşik Arap Emirlikleri,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+22,Tokyo,Japonya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+22,Tokyo,Japonya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+23,Kyoto,Japonya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+23,Kyoto,Japonya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+24,Bangkok,Tayland,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+24,Bangkok,Tayland,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+25,Phuket,Tayland,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+25,Phuket,Tayland,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+26,Bali,Endonezya,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+26,Bali,Endonezya,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+27,New York,ABD,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+27,New York,ABD,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+28,Miami,ABD,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+28,Miami,ABD,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+29,Kahire,Mısır,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+29,Kahire,Mısır,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+30,Marakeş,Fas,Balıkesir,otobus,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
+30,Marakeş,Fas,Balıkesir,ucak,,,,,,TRY,,,,DOGRULAMA_BEKLIYOR
